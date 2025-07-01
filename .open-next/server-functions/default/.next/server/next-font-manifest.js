@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/abdul-rafay/Web Development/next js projects/Untitled Folder/portfolio_custom/src/app/layout":["static/media/dae443841c02f0b8-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
